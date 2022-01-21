@@ -1,4 +1,7 @@
-# Frontend Mentor - Order summary card solution
+# 00awaudby.github.io
+ashleys frontend mentor challenge of a sumary card
+
+
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -70,3 +73,4 @@ I feel the key areas i need to work on going forward are advanced css and respon
 ## Acknowledgments
 
 what really helped me in this project was just loking on the internet at other simular cards and really understanding how to break a project down into sections and work on it one section at a time.
+
