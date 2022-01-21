@@ -28,10 +28,9 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshot![Web capture_21-1-2022_222432_www frontendmentor io](https://user-images.githubusercontent.com/84845712/150608287-4f5ad39c-e34a-49f4-a9ec-e5993c531775.jpeg)
 
-![](./screenshot.jpg)
-![Web capture_21-1-2022_1371_www frontendmentor io](https://user-images.githubusercontent.com/84845712/150532129-028aebf9-933c-4a24-b26a-dce2fc9fe212.jpeg)
+
 
 ### Links
 
