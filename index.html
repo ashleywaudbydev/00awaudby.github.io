@@ -17,22 +17,33 @@
   <style>
     body {
       padding: 0;
-      margin: 0 auto;
-      max-width: 375px;
+      margin: 7rem auto;
+      max-width: 400px;
+
       box-sizing: border-box;
-      font-size: 14px;
+      font-size: 16px;
       font-family: 'Red Hat Display', sans-serif;
+      background-image: url(./images/pattern-background-mobile.svg);
+      background-repeat: no-repeat;
+
+
+
+      background-size: 700vh;
+
+
+
+
     }
 
     .wrapper {
-      background-image: url(./images/pattern-background-mobile.svg);
-      background-repeat: no-repeat;
-      background-size: cover;
-      max-width: 350px;
-      margin-top: 6.2rem;
-      padding-top: 4.2rem;
-      margin-bottom: 7rem;
-      padding-bottom: 0.1rem;
+      width: 100%;
+
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      padding: 0;
 
     }
 
@@ -48,13 +59,16 @@
 
     .whole {
       background: white;
-      margin-right: 1rem;
-      margin-left: 1rem;
+
       border-top-right-radius: 20px;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
       border-bottom-left-radius: 20px;
-      margin-bottom: 3.5rem;
+
+      max-width: 480px;
+      width: 100%;
+      overflow-x: hidden;
+      box-shadow: 0 8px 15px -6px rgba(0, 0, 0, 0.1);
 
       padding-top: 0;
 
@@ -71,8 +85,8 @@
       padding-top: 0;
     }
 
-    .descript h2 {
-      padding-top: 1.5rem;
+    .descript h1 {
+      padding-top: 2rem;
       margin: 0;
       font-weight: 900;
       color: hsl(223, 47%, 23%);
@@ -94,11 +108,11 @@
       justify-content: space-between;
       padding: 2rem;
       padding-top: 0;
-      padding-top: 0.5rem;
-      padding-bottom: 0.5rem;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
       background-color: aliceblue;
       width: 70%;
-      margin-left: 1rem;
+      margin-left: 2rem;
 
 
       font-size: 14px;
@@ -143,13 +157,23 @@
     .btn {
       background: hsl(245, 75%, 52%);
       color: white;
-      padding: 0.5rem;
-      width: 85%;
+      width: 70%;
+      margin-left: 1.5rem;
+      padding: 2rem;
+      padding-top: 0;
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
+
+
+
+
+
       text-align: center;
       border-radius: 10px;
+
+
       text-decoration: none;
-      padding-bottom: 0.1rem;
-      padding-top: 0.1rem;
+
       font-weight: 700;
       -webkit-box-shadow: 0px 20px 10px #e0e8ff;
       box-shadow: 0px 20px 10px #e0e8ff;
@@ -165,6 +189,7 @@
       text-decoration: none;
       color: hsl(224, 23%, 55%);
       font-weight: 700;
+      padding-bottom: 1rem;
     }
 
     .link:hover {
@@ -175,21 +200,17 @@
 
 
 
-    @media(min-width:1440px) {
-      .wrapper {
-        background: none;
+    @media(min-width:900px) {
 
-
-      }
 
       body {
+        background: none;
         background-image: url(./images/pattern-background-desktop.svg);
         background-repeat: no-repeat;
+        background-color: aliceblue;
         background-size: cover;
-        width: 1140px;
-        background-color: hsl(225, 100%, 94%);
-        background-image: url(./images/pattern-background-desktop.svg);
-        background-position-x: right;
+        background-position-y: -20rem;
+
 
       }
 
