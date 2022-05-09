@@ -1,4 +1,4 @@
-# 00awaudby.github.io
+# SummaryCard.io
 ashleys frontend mentor challenge of a sumary card
 
 
