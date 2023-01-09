@@ -8,15 +8,25 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+- [The challenge](#the-challenge)
+  
+- [Screenshot](#screenshot)
+  
+- [Links](#links)
+  
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
+- [Built with](#built-with)
+  
+- [What I learned](#what-i-learned)
+  
+- [Continued development](#continued-development)
+  
+- [Useful resources](#useful-resources)
+  
 - [Author](#author)
+
 - [Acknowledgments](#acknowledgments)
 
 
@@ -65,6 +75,7 @@ I feel the key areas i need to work on going forward are advanced css and respon
 
 
 ## Author
+Ashley Waudby
 - Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 
