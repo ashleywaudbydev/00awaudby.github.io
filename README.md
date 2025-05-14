@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-pricing-card-using-css-flexbox-rPnfpeD7E)
-- Live Site URL: [https://00awaudby.github.io/)
+- Live Site URL: [https://ashleywaudbydev.github.io/)
 
 ## My process
 1. figure out most of what i need to do by looking at the challenge and taking it all in.
